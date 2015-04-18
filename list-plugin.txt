@@ -1,0 +1,4 @@
+http://downloads.wordpress.org/plugin/contact-form-7.4.1.1.zip
+http://downloads.wordpress.org/plugin/brozzme-cookie-notification.zip
+https://downloads.wordpress.org/plugin/add-link-to-facebook.1.215.zip
+https://downloads.wordpress.org/plugin/google-analytics-dashboard.2.1.1.zip
